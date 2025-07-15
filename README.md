@@ -1,6 +1,6 @@
 <h1 align="center">ROS2를 활용한 로봇 자동화 공정 시스템 구현🔬 </h1>
 
-<h2 align="center">협동로봇을 활용한 굿즈 이미지 제작 자동화📝 </h2>
+<h2 align="center">굿즈 이미지 제작 자동화📝 </h2>
 
 
 
