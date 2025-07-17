@@ -10,7 +10,7 @@
 빈번한 수정과 반복작업이 많은 디자인 직무(캐릭터, 타투 도안 제작 등)에서 인간의 육체적 노동을 로봇이 대체하여 피로도를 줄이고 제작자의 순수 창작 집중도 증가
 
 
-
+<br />
 
 
 
@@ -20,7 +20,7 @@
 -2025/06/09~2025/06/20  4명
 
 
-
+<br />
 
 
 
@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white">   <img src="https://img.shields.io/badge/ROS2-black?style=for-the-badge&logo=ros&logoColor=#22314E">   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">    <img src="https://img.shields.io/badge/DoosanAPI-blue?style=for-the-badge&logo=DoosanAPI&logoColor=white">
 
 
-
+<br />
 
 
 
@@ -55,7 +55,7 @@
 
 
 
-
+<br />
 
 
    
@@ -68,7 +68,7 @@
 2. opencv의 hough transform을 통해 라인 검출->좌표 추출을 하려했지만 좌표 추출 후 한붓그리기가 불가능한 형태의 좌표 순서가 나옴
 
 
-
+<br />
 
 
 
@@ -84,7 +84,7 @@
 
 2-1. skeleton을 사용해 자동으로 라인의 좌표와 한붓그리기 시 좌표 순서가 지정되는 path를 만들음.
 
-
+<br />
 
 
 ## 회고 / 느낀 점
