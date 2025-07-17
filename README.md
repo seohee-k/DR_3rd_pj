@@ -38,19 +38,19 @@
 ## 내가 기여한 부분
 
 
-### 1. 시나리오 설계 및 opencv image 좌표 추출 알고리즘 제작
+- 시나리오 설계 및 opencv image 좌표 추출 알고리즘 제작
 
 -image 레이아웃 후 skeleton 사용
 
 
-### 2. Doosan API 중 구현 안 된 Nudge함수 제작
+- Doosan API 중 구현 안 된 Nudge함수 제작
 
 
 
 -본래 Doosan M0609 모델 사용시 제공되는 API 를 사용하지만 만들지 않은 API가 있어 함수로 구현
 
 
-### 3. 코드 통합 및 디버깅
+- 코드 통합 및 디버깅
 
 
 
